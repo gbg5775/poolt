@@ -1,0 +1,13 @@
+#summary Universal IR RC App.
+
+= Introduction =
+
+Poolt is an android web application that allows to use android device as a remote control for home appliances that are controlled in IR spectrum. 
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
