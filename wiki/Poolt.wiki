@@ -1,4 +1,4 @@
-#summary Universal IR RC App.
+#summary Start page.
 
 = Introduction =
 
